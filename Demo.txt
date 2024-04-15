@@ -1,0 +1,27 @@
+What is Node.js
+
+Bowser vs Node
+
+V8 Architecture and LIBUV
+what is cryptography
+Event Queue, Event Loop, Thread Pool
+Lifo - Last in first out
+What is the Difference b/w Blocking and Non-blocking Code
+
+What is npm
+npm init and npm init -y
+what is npm init and npm i
+what is package.json and node_modules
+--save(default)
+--save-dev
+--no-save
+what is the Production and development
+Global Object in Node.js
+        Defination
+        Examples
+
+Modules in Node.js
+        Defination
+        Types and Explain
+
+        
